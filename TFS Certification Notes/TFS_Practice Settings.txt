@@ -1,0 +1,5 @@
+http://192.168.1.101:8080/tfs/
+
+WIN-PUTAKV0LT06\Administrator
+
+WIN-PUTAKV0LT06\sduitsman

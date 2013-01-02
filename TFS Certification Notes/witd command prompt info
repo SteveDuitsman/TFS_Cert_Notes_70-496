@@ -1,0 +1,22 @@
+C:\Code\TFS_Practice\Project Dart\ProcessTemplates\Microsoft Visual Studio Scrum 2.1\WorkItem Tracking\TypeDefinitions
+
+witadmin
+
+importwitd
+exportwitd
+
+//	Team Project Collection
+/collection:
+http://192.168.1.101:8080/tfs/defaultcollection/
+
+//	Project to import into
+/p:
+"Project Dart"
+
+//	File
+/f:
+Bug.xml
+
+//	Validation
+/v
+
