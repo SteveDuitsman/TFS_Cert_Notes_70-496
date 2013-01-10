@@ -1,5 +1,8 @@
 http://192.168.1.101:8080/tfs/
 
+/collection:
+http://WIN-PUTAKV0LT06:8080/tfs/defaultcollection/
+
 WIN-PUTAKV0LT06\Administrator
 
 WIN-PUTAKV0LT06\sduitsman
